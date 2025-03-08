@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Undergraduate CS Student at [Universidad de Costa Rica](https://www.ucr.ac.cr/). Currently in my third year.
 
-📌 My main interests right now are backend development and cybersecurity
+📌 My main interests right now are backend development and cybersecurity.
 
 ## Tech stack 💼
 
