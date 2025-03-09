@@ -20,7 +20,7 @@ A collection of tools and languages that I have used in my academic life and per
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Interests
+## Interests 🔬
 
 The languages and technologies that I want to learn in the near future.
 
